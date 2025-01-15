@@ -42,13 +42,13 @@ This is a professional portfolio website showcasing my skills in HTML, CSS, and 
 - **UI/UX Focus:** A clean and intuitive design to enhance user experience.
 
 ## Deployment
-The site is live at: [Website](https://khezamitaha.github.io/Kasper-Template_2-HTML-CSS-/)
+The site is live at:  [Website](https://khezamitaha.github.io/Kasper-Template_2-HTML-CSS-/)
 
 ## Contact
 For inquiries or collaboration, feel free to reach out:
 - **Email:** khezamitaha10@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/taha-khezami-2044832b2)
-- **GitHub:** [Your GitHub](https://github.com/KhezamiTaha)
+- **LinkedIn:** [Khezami.T](https://www.linkedin.com/in/taha-khezami-2044832b2)
+- **GitHub:** [Khezami Taha](https://github.com/KhezamiTaha)
 
 ---
 Feel free to explore the code and provide feedback to help me improve further. Your suggestions are always welcome!
