@@ -458,7 +458,7 @@
                     tincidunt.
                 </p>
             </div>
-            
+
             <div class="content">
                 <form action="">
                     <input class="main-input" type="text" name="name" placeholder="Your Name">
@@ -498,78 +498,9 @@
             <p class="copyright">&copy; 2025 <span>Khezami.T</span> All Rights Reserved</p>
         </div>
     </div>
-     <!-- end footer / -->
+    <!-- end footer / -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <script>
-
-
-        // Target the <head> element where stylesheets are located
-        const headElement = document.head;
-
-        // Create a MutationObserver to monitor changes
-        const observer = new MutationObserver((mutationsList) => {
-            for (const mutation of mutationsList) {
-                if (
-                    mutation.type === "attributes" &&
-                    mutation.target.tagName === "LINK" &&
-                    mutation.target.rel === "stylesheet"
-                ) {
-                    console.log("CSS file updated:", mutation.target.href);
-
-                    // Delay the scrolling to ensure the DOM updates are reflected
-                    setTimeout(() => {
-                        console.log("Scrolling to bottom...");
-                        window.scrollTo({ top: document.body.scrollHeight }); // Removed smooth behavior
-                    }, 100); // Adjust delay if needed
-                    break;
-                }
-            }
-        });
-
-        // Observe attribute changes in the <head> element and its child nodes
-        observer.observe(headElement, {
-            attributes: true,
-            subtree: true,
-            attributeFilter: ["href"], // Monitor changes to the 'href' attribute
-        });
-
-        // Scroll to the bottom on initial load
-        window.onload = () => {
-            console.log("Initial load: Scrolling to bottom...");
-            setTimeout(() => {
-                window.scrollTo({ top: document.body.scrollHeight }); // Removed smooth behavior
-            }, 100);
-        };
-
-
-    </script>
 </body>
 
 </html>
