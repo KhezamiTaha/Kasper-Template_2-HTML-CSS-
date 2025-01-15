@@ -42,7 +42,7 @@ This is a professional portfolio website showcasing my skills in HTML, CSS, and 
 - **UI/UX Focus:** A clean and intuitive design to enhance user experience.
 
 ## Deployment
-The site is live at: [Your Website URL](https://khezamitaha.github.io/Kasper-Template_2-HTML-CSS-/)
+The site is live at: [Website](https://khezamitaha.github.io/Kasper-Template_2-HTML-CSS-/)
 
 ## Contact
 For inquiries or collaboration, feel free to reach out:
