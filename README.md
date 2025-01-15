@@ -26,11 +26,11 @@ This is a professional portfolio website showcasing my skills in HTML, CSS, and 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/portfolio-website.git
+   git clone https://github.com/KhezamiTaha/Kasper-Template_2-HTML-CSS-.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd portfolio-website
+   cd Kasper-Template_2-HTML-CSS-
    ```
 3. Open the `index.html` file in your browser.
 
@@ -42,13 +42,13 @@ This is a professional portfolio website showcasing my skills in HTML, CSS, and 
 - **UI/UX Focus:** A clean and intuitive design to enhance user experience.
 
 ## Deployment
-The site is live at: [Your Website URL](https://yourwebsite.com)
+The site is live at: [Your Website URL](https://khezamitaha.github.io/Kasper-Template_2-HTML-CSS-/)
 
 ## Contact
 For inquiries or collaboration, feel free to reach out:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/your-username)
+- **Email:** khezamitaha10@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/taha-khezami-2044832b2)
+- **GitHub:** [Your GitHub](https://github.com/KhezamiTaha)
 
 ---
 Feel free to explore the code and provide feedback to help me improve further. Your suggestions are always welcome!
